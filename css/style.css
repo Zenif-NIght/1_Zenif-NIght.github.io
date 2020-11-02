@@ -267,8 +267,8 @@ a {
 .btn:before {
   bottom: -1px;
   right: -1px;
-  border-bottom: 5px solid black;
-  border-right: 5px solid black;
+  /* border-bottom: 5px solid black; */
+  /* border-right: 5px solid black; */
   
 
 }
