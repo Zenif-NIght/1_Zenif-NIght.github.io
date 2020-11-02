@@ -233,12 +233,8 @@ a {
     margin-bottom: 20px;
   }
 }
-/* .row :hover{
-  background:#05d1ff46;
-  bo
-} */
 
-/*  */
+/* Cool boxii stuff https://codepen.io/bhautikbharadava/pen/OdPzdW */
 .btn {
   display: grid;
   cursor: pointer;
