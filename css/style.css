@@ -233,7 +233,13 @@ a {
     margin-bottom: 20px;
   }
 }
-
+.grid{
+  display: grid;
+  align-content: space-around;
+  position: relative ;
+  padding:5% ;
+  grid-template-columns: auto auto auto auto;
+}
 /* Cool boxii stuff https://codepen.io/bhautikbharadava/pen/OdPzdW */
 .btn {
   display: grid;
